@@ -1,2 +1,2 @@
 # LOFT
-Demo AI Trading
+MNQ Trading
