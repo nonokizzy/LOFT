@@ -1,0 +1,2 @@
+# LOFT
+Demo AI Trading
